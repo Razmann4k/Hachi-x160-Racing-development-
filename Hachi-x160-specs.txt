@@ -1,3 +1,4 @@
+Year: 1998
 Brand: Hachi
 Model Name: x160
 Drivetrain: FF
@@ -9,3 +10,4 @@ Gear configuration: 5-speed manual
 
 5-door hatchback
 Body: TBD
+* Inspired by the Honda Civic EG6 SiR
