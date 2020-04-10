@@ -1,0 +1,9 @@
+W = Accelerator
+S = Footbrake
+A = Steer Left
+D = Steer Right
+Spacebar = Handbrake (locks rear wheels)
+Shift = Shift Up
+Ctrl = Shift Down
+C = Change View
+Esc = Pause
